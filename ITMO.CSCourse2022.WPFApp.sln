@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello", "ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello\ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello.csproj", "{B8A4BB83-A9B7-4367-8091-C38689238FAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.WPFApp.Lab01.Ex02_WPFHelloNav", "ITMO.CSCourse2022.WPFApp.Lab01.Ex02_WPFHelloNav\ITMO.CSCourse2022.WPFApp.Lab01.Ex02_WPFHelloNav.csproj", "{3F5FCEBF-0281-47E6-80C0-AD54A46CD62C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B8A4BB83-A9B7-4367-8091-C38689238FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8A4BB83-A9B7-4367-8091-C38689238FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8A4BB83-A9B7-4367-8091-C38689238FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5FCEBF-0281-47E6-80C0-AD54A46CD62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5FCEBF-0281-47E6-80C0-AD54A46CD62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5FCEBF-0281-47E6-80C0-AD54A46CD62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5FCEBF-0281-47E6-80C0-AD54A46CD62C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
