@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello.Properties
+namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex03.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITMO.CSCourse2022.WPFApp.Lab01.Ex03.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
