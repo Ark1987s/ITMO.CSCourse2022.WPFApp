@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex03.Properties
+namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello.Properties
 {
 
 

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex03
+namespace ITMO.CSCourse2022.WPFApp.Lab01.Ex01_WPFHello
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
