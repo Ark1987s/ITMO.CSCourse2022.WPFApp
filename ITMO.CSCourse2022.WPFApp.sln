@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.WPFApp.La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.WPFApp.Lab04.Ex02_UserIn2", "ITMO.CSCourse2022.WPFApp.Lab04.Ex02_UserIn2\ITMO.CSCourse2022.WPFApp.Lab04.Ex02_UserIn2.csproj", "{BDFFB8CA-E067-4296-A702-A63D9975529C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.WPFApp.Lab04.Ex03_UserIn3", "ITMO.CSCourse2022.WPFApp.Lab04.Ex03_UserIn3\ITMO.CSCourse2022.WPFApp.Lab04.Ex03_UserIn3.csproj", "{1D2B1F44-AB39-4540-9211-4067670C76C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BDFFB8CA-E067-4296-A702-A63D9975529C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDFFB8CA-E067-4296-A702-A63D9975529C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDFFB8CA-E067-4296-A702-A63D9975529C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2B1F44-AB39-4540-9211-4067670C76C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2B1F44-AB39-4540-9211-4067670C76C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2B1F44-AB39-4540-9211-4067670C76C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2B1F44-AB39-4540-9211-4067670C76C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
